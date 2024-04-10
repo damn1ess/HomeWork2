@@ -51,6 +51,5 @@ public class Main {
         employees = employees + 94;
         hoursPerEmployee = hours / employees;
         System.out.println("Задача 8.2: \n" + "Если в компании работает " + employees + " человек," + " то всего " + hoursPerEmployee + " часа работы может быть поделено между сотрудниками.");
-
     }
 }
